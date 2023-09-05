@@ -1,1 +1,4 @@
-nie test
+````
+1. Inicjalizacja
+````
+git init linkDoRepozytorium
